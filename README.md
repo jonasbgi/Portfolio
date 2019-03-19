@@ -1,4 +1,4 @@
-# About this folder 
+# About this Portfolio
 To demonstrate some technical knowledge, I have selected a few projects from school
 which are both readable and demonstrates some technical skills. 
 
