@@ -1,0 +1,5 @@
+{
+  "url": "mongodb://localhost:27017/",
+  "database_name": "sample_api",
+  "collection_name": "screenings"
+}
